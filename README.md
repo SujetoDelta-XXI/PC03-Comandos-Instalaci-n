@@ -22,4 +22,10 @@ npm install bootstrap
 npm install react-bootstrap bootstrap
 //import 'bootstrap/dist/css/bootstrap.min.css';//
 
-# 
+# Github:
+
+git config --global user.name "Tu Nuevo Nombre"
+git config --global user.email "tunuevoemail@example.com"
+
+git config --global --list
+
